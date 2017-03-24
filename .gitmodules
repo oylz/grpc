@@ -22,4 +22,4 @@
 	url = https://github.com/google/benchmark
 [submodule "third_party/boringssl-with-bazel"]
 	path = third_party/boringssl-with-bazel
-	url = https://boringssl.googlesource.com/boringssl
+	url = https://github.com/oylz/boringssl.git
